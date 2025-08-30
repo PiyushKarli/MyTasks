@@ -15,7 +15,7 @@ This is a simple, yet powerful To-Do List Android application built using modern
 ##  Technologies Used
 
 * **Android SDK**
-* **Kotlin** (or Java, depending on your project language)
+* **Java** 
 * **Room Database**: For local data storage.
 * **Android Architecture Components**:
     * **ViewModel**: To manage UI-related data in a lifecycle-conscious way.
